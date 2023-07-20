@@ -17,12 +17,12 @@ Nothing is required for instillation
 
 1. Click generate password
 
-![photo of password generator](./Develop/Assets/Images/Screenshot%202023-07-20%20120236.png)
+![photo of password generator](./Assets/Images/Screenshot%202023-07-20%20120236.png)
 
 2. Answer the questions that prompt in the top of the window
 
-![photo of prompt](./Develop/Assets/Images/Screenshot%202023-07-20%20115838.png)
+![photo of prompt](./Assets/Images/Screenshot%202023-07-20%20115838.png)
 
 3. hightlight password, right click, and select copy. This will allow user to copy the generated password to their clipboard, and paste it to whereever they need. 
 
-![photo of highlighted password](./Develop/Assets/Images/Screenshot%202023-07-20%20120301.png)
+![photo of highlighted password](./Assets/Images/Screenshot%202023-07-20%20120301.png)
